@@ -1,0 +1,9 @@
+{
+  "/icon.png/route": "app/icon.png/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/(policies)/termos-de-servico/page": "app/(policies)/termos-de-servico/page.js",
+  "/blog/[slug]/page": "app/blog/[slug]/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/(policies)/politica-de-privacidade/page": "app/(policies)/politica-de-privacidade/page.js"
+}
