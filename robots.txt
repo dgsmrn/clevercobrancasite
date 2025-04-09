@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://clevercobranca.com.br/
+
+# Sitemaps
+Sitemap: https://clevercobranca.com.br/sitemap.xml
